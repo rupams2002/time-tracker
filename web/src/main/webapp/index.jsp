@@ -15,7 +15,9 @@
   <p>
     This is a very simple example web page on a JSP. Changes made to show redeploy from Jenkins.
     
-    This is a test - 1
+    <br>
+
+    <h1>This is a test - 2</h1>
   </p>
 </body>
 </html>
